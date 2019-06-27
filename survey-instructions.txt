@@ -1,0 +1,63 @@
+https://www.fsu.ca/rock-the-park
+
+Page title = FSU Summer 2019 Events Survey
+
+Total number of responses: (just display number of records)
+Number who of respondents who subscribed to email newsletter: (number of "yes" responses from subscribed column)
+Number who opted in to day 1 ticket draw: (number of "y" responses from day 1 column)
+Number who opted in to day 2 ticket draw: (number of "y" responses from day 2 column)
+Number who opted in to day 4 ticket draw: (number of "y" responses from day 4 column)
+
+
+Title = Which social networks do you use most often?: (answers are stored in column a1. Please display each social network, don't include the letter= part, that's just how they are stored in the database, along with how many gave that answer, along with the percentage of responses that gave that answer. You can also include a visual representation, either a bar chart or pie chart.)
+a=Facebook
+b=Instagram
+c=Snapchat
+d=Twitter
+e=I don’t use any of the above regularly
+
+Title = How do you usually find out what events are happening on campus? (answers are stored in column b2. For this one they can give more than one answer. Same instructions aboove re: # of responses, percentage and chart)
+a: 'Back page of the Interrobang',
+b: 'Digital signage',
+c: 'FSU Email newsletter',
+d: 'Facebook groups',
+e: 'FSU Facebook page',
+f: 'FSU Instagram posts',
+g: 'FSU Instagram story',
+h: 'FSU printed events calendar',
+i: 'FSU Snapchat story',
+j: 'FSU Twitter account',
+k: 'FSU Text service',
+l: 'FSU website',
+m: 'Posters',
+n: 'Word of mouth',
+o: 'Other'
+
+
+
+Title = Other responses
+show any answers stored in the column howhearother. I usually just seprate each with an hr tag or do a ul to display them.
+
+
+Title = How informed you are re: events taking place on campus. 0=not at all, 10=very informed
+display values 0 to 10 and follow instructions from questions 1 and 2 (# of responses, percentage, chart)
+
+
+
+Title = If you do not attend many of our events, what is the primary reason?:
+a=I am not aware of events
+b=The price
+c=I am too busy
+d=Not interested in them
+e=Other (please specify in the box below)
+
+
+
+Title = Other responses
+same insructions as the similar question above
+
+Title = Do you have any suggestions for us, either on types of events we should run, or how we should make people aware of them?
+same instructions as the "other responses" style questions above
+
+
+
